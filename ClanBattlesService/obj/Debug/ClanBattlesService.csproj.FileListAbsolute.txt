@@ -1,0 +1,332 @@
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\roslyn\csc.exe
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\roslyn\System.Collections.Immutable.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\roslyn\vbc.exe
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\roslyn\VBCSCompiler.exe
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\roslyn\VBCSCompiler.exe.config
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\ClanBattlesService.dll.config
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\ClanBattlesService.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\ClanBattlesService.pdb
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Antlr3.Runtime.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\EntityFramework.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\EntityFramework.SqlServer.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Google.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Web.Infrastructure.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Newtonsoft.Json.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Owin.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Net.Http.Formatting.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.Helpers.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.Owin.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.WebHost.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.Mvc.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.Optimization.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.Razor.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Deployment.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Razor.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\WebGrease.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Newtonsoft.Json.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Net.Http.Formatting.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.Helpers.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.WebHost.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.Mvc.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.Optimization.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.Razor.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Deployment.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Razor.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Antlr3.Runtime.pdb
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\EntityFramework.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\EntityFramework.SqlServer.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Google.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.Owin.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.csprojResolveAssemblyReference.cache
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.pdb
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\AutoMapper.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.ValueTuple.dll
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\AutoMapper.pdb
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\AutoMapper.xml
+C:\Kevin Aranibar\ASP.NET\ClanBattlesService\ClanBattlesService\bin\System.ValueTuple.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\roslyn\csc.exe
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\roslyn\vbc.exe
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\ClanBattlesService.dll.config
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\ClanBattlesService.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\ClanBattlesService.pdb
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Antlr3.Runtime.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\AutoMapper.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\EntityFramework.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Owin.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Net.Http.Formatting.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.ValueTuple.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.Helpers.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.Owin.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.WebHost.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.Mvc.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.Optimization.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.Razor.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\WebGrease.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\AutoMapper.pdb
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\AutoMapper.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.ValueTuple.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Newtonsoft.Json.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Net.Http.Formatting.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.Helpers.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.WebHost.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.Mvc.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.Optimization.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.Razor.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Antlr3.Runtime.pdb
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\EntityFramework.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.Owin.xml
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.csproj.CopyComplete
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.dll
+C:\Users\Acer\Desktop\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.pdb
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\csc.exe
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\System.Collections.Immutable.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\System.Reflection.Metadata.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\vbc.exe
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\VBCSCompiler.exe
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\VBCSCompiler.exe.config
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\ClanBattlesService.dll.config
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\ClanBattlesService.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\ClanBattlesService.pdb
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Antlr3.Runtime.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\AutoMapper.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\EntityFramework.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\EntityFramework.SqlServer.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Google.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Web.Infrastructure.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Newtonsoft.Json.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Owin.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Net.Http.Formatting.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.ValueTuple.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Helpers.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.Owin.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.WebHost.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Mvc.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Optimization.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Razor.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Deployment.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Razor.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\WebGrease.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\AutoMapper.pdb
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\AutoMapper.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.ValueTuple.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Newtonsoft.Json.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Net.Http.Formatting.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Helpers.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.WebHost.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Mvc.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Optimization.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Razor.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Deployment.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Razor.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Antlr3.Runtime.pdb
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\EntityFramework.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\EntityFramework.SqlServer.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Google.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.Owin.xml
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.dll
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.pdb
+F:\Developments\Updates\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.csprojResolveAssemblyReference.cache
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\csc.exe
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\System.Collections.Immutable.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\System.Reflection.Metadata.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\vbc.exe
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\VBCSCompiler.exe
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\roslyn\VBCSCompiler.exe.config
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\ClanBattlesService.dll.config
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\ClanBattlesService.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\ClanBattlesService.pdb
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Antlr3.Runtime.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\AutoMapper.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\EntityFramework.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\EntityFramework.SqlServer.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Google.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Web.Infrastructure.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Newtonsoft.Json.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Owin.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Net.Http.Formatting.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.ValueTuple.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Helpers.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.Owin.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.WebHost.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Mvc.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Optimization.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Razor.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Deployment.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Razor.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\WebGrease.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\AutoMapper.pdb
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\AutoMapper.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.ValueTuple.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Newtonsoft.Json.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Net.Http.Formatting.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Helpers.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.WebHost.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Mvc.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Optimization.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Razor.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Deployment.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.WebPages.Razor.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Antlr3.Runtime.pdb
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\EntityFramework.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\EntityFramework.SqlServer.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Google.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\bin\System.Web.Http.Owin.xml
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.csprojAssemblyReference.cache
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.csproj.CoreCompileInputs.cache
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.csproj.CopyComplete
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.dll
+E:\Developments\Updates\ClanBattlesService\ClanBattlesService\obj\Debug\ClanBattlesService.pdb
